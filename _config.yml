@@ -1,0 +1,28 @@
+name: alecbishop
+favicon: null
+layout_spectrum: 0.010301062604412436
+typography_spectrum: 0.9242686072830111
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.32717430777847767
+  lightness: 0.015716704539954662
+  saturation: 0.45946024963632226
+  rhythmicContrast: 0.021198383066803217
+purpose: []
