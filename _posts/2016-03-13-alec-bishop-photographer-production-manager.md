@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: "Alec Bishop - Photographer, Production Manager,\_"
-datePublished: '2016-03-13T07:05:39.518Z'
-dateModified: '2016-03-13T07:05:09.494Z'
+description: 'Alec Bishop - Photographer, Production Manager, '
+datePublished: '2016-04-28T04:08:32.646Z'
+dateModified: '2016-04-28T04:08:31.736Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-13-alec-bishop-photographer-production-manager.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-13-alec-bishop-photographer-production-manager.md
-published: true
+starred: false
 url: alec-bishop-photographer-production-manager/index.html
 _type: Article
 
@@ -44,4 +44,13 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5bbf2fb-a1ec-4b8a-92a9-094b5a0afff8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43fcd72a-75aa-456a-b271-6e85fac385df.jpg)
 
-Alec Bishop - Photographer, Production Manager,
+Alec Bishop - Photographer, Production Manager, ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/289e2af9-a57c-4362-a2e5-9e98d9628a9f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe3eb86d-e75d-4d06-8c66-46bc15e7f1a1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0867ef5c-00b1-40f6-a0db-289ad2d20264.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08362654-6671-43fe-ba15-6c13533f0eff.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45e6cacc-1820-4667-bb5c-495cac828c29.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f62b4aed-1b3a-4a41-a0aa-3948db88c1bb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/141fb517-17c8-4651-b30b-f59984c796ac.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3517065-5664-4714-b9d8-34535291464f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fed4ada5-a4b3-4f37-8da5-8726df061495.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98e936e6-3be7-4758-8c27-0b4032eec837.jpg)
